@@ -1,0 +1,19 @@
+{
+  "businessName": "Antó-Jalos",
+  "whatsappPhone": "524741342246",
+  "facebook": "#Antó-Jalos",
+  "deliveryCost": 30,
+  "currency": "MXN",
+  "schedule": {
+    "alwaysOpen": true,
+    "days": {
+      "monday": { "enabled": true, "start": "18:00", "end": "23:30" },
+      "tuesday": { "enabled": true, "start": "18:00", "end": "23:30" },
+      "wednesday": { "enabled": true, "start": "18:00", "end": "23:30" },
+      "thursday": { "enabled": true, "start": "18:00", "end": "23:30" },
+      "friday": { "enabled": true, "start": "18:00", "end": "23:30" },
+      "saturday": { "enabled": true, "start": "18:00", "end": "23:30" },
+      "sunday": { "enabled": true, "start": "18:00", "end": "23:30" }
+    }
+  }
+}
