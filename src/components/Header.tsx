@@ -42,7 +42,7 @@ export const Header: React.FC<HeaderProps> = ({ config, isOpen }) => {
         <div className="relative shrink-0 group">
           <div className="w-24 h-24 md:w-28 md:h-28 rounded-2xl overflow-hidden p-1 bg-gradient-to-tr from-[#ff5722] via-[#ff7043] to-[#00b4d8] shadow-[0_0_20px_rgba(255,87,34,0.35)]">
             <img
-              src="/img/logo.jpg"
+              src="./img/logo.jpg"
               alt={config.businessName}
               className="w-full h-full object-cover rounded-xl bg-[#0b132b]"
               onError={(e) => {
